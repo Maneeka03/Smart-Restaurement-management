@@ -7,8 +7,8 @@ A cutting-edge AI-powered solution for **automated inventory management**, **rea
 ## 👨‍💻 Team
 
 **Team Name**:  
-- Satwik Kishore  
-- Neeharika Joshi  
+- Neeharika Joshi
+- Satwik Kishore    
 - Sonu Pandit  
 - Shubham Pandit  
 
